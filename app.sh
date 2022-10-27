@@ -1,4 +1,6 @@
 echo "To nie działa!"
 uname -z
-iname -x
+uname -x
 uname -y
+echo "To tez nie działa!"
+uname -w
